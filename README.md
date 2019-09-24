@@ -14,3 +14,8 @@
 1.在整幅图上做三级小波变换   
 2.在三级变换后的低频LL_3分量上依次量化提取水印  
 3.得到水印图像  
+##在这里，我设计了4种不同的攻击模式，包括裁减、缩放、先裁减后缩放、先缩放后裁减，对应的图片为  
+![image](https://github.com/dong-zhang1/Blind-Watermark-Based-on-DWT/blob/master/output/crop_dwt_10.jpg)
+![image](https://github.com/dong-zhang1/Blind-Watermark-Based-on-DWT/blob/master/output/scale_dwt_10.jpg)
+![image](https://github.com/dong-zhang1/Blind-Watermark-Based-on-DWT/blob/master/output/crop_scale_dwt_10.jpg)
+![image](https://github.com/dong-zhang1/Blind-Watermark-Based-on-DWT/blob/master/output/scale_crop_dwt_10.jpg)
