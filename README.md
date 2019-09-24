@@ -9,7 +9,7 @@
 ## 待嵌入图像
 ![image](https://github.com/dong-zhang1/Blind-Watermark-Based-on-DWT/blob/master/data/6.jpg)
 ## 嵌入后图像
-！[image]()
+！[image](https://github.com/dong-zhang1/Blind-Watermark-Based-on-DWT/blob/master/output/dwt_6.jpg)
 ### 提取过程
 1.在整幅图上做三级小波变换   
 2.在三级变换后的低频LL_3分量上依次量化提取水印  
