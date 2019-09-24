@@ -20,8 +20,8 @@
 ![image](https://github.com/dong-zhang1/Blind-Watermark-Based-on-DWT/blob/master/output/crop_scale_dwt_10.jpg)
 ![image](https://github.com/dong-zhang1/Blind-Watermark-Based-on-DWT/blob/master/output/scale_crop_dwt_10.jpg)
 ## 对应提取出的水印图片如下
-![image](https://github.com/dong-zhang1/Blind-Watermark-Based-on-DWT/blob/master/output/ex_crop_dwt_10.jpg)
-![image](https://github.com/dong-zhang1/Blind-Watermark-Based-on-DWT/blob/master/output/ex_scale_dwt_10.jpg)
-![image](https://github.com/dong-zhang1/Blind-Watermark-Based-on-DWT/blob/master/output/ex_crop_scale_dwt_10.jpg)
-![image](https://github.com/dong-zhang1/Blind-Watermark-Based-on-DWT/blob/master/output/ex_scale_crop_dwt_10.jpg)
+![image](https://github.com/dong-zhang1/Blind-Watermark-Based-on-DWT/blob/master/output/ex_crop_dwt_10.jpg)  
+![image](https://github.com/dong-zhang1/Blind-Watermark-Based-on-DWT/blob/master/output/ex_scale_dwt_10.jpg)  
+![image](https://github.com/dong-zhang1/Blind-Watermark-Based-on-DWT/blob/master/output/ex_crop_scale_dwt_10.jpg)  
+![image](https://github.com/dong-zhang1/Blind-Watermark-Based-on-DWT/blob/master/output/ex_scale_crop_dwt_10.jpg)  
 
