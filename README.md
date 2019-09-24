@@ -25,3 +25,4 @@
 ![image](https://github.com/dong-zhang1/Blind-Watermark-Based-on-DWT/blob/master/output/ex_crop_scale_dwt_10.jpg)  
 ![image](https://github.com/dong-zhang1/Blind-Watermark-Based-on-DWT/blob/master/output/ex_scale_crop_dwt_10.jpg)  
 
+# 需要说明的是，此方法仅在图像画面不复杂时有效，对lena图进行测试时无论有误攻击，提取出的都是噪声！  
